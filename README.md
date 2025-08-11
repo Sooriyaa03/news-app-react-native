@@ -19,19 +19,17 @@ Authentication is powered by **Firebase** with email verification.
 
 ## 📸 App Screenshots
 
-> Replace these placeholders with actual screenshots (`/assets/screenshots/` folder).
-
 ### 🏠 Home News Tab
-![Home News Tab](assets/screenshots/home-news.png)
+![Home News Tab](screenshots/home-news.png)
 
 ### 📈 Stocks Tab
-![Stocks Tab](assets/screenshots/stocks.png)
+![Stocks Tab](screenshots/stocks.png)
 
 ### 🗳️ Poll Tab
-![Poll Tab](assets/screenshots/poll.png)
+![Poll Tab](screenshots/poll.png)
 
 ### ⚙️ Settings Tab
-![Settings Tab](assets/screenshots/settings.png)
+![Settings Tab](screenshots/settings.png)
 
 ---
 
