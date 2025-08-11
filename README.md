@@ -1,11 +1,11 @@
-# 📰 NewsNet - React Native News App
+# NewsNet - React Native News App
 
 A modern, cross-platform **React Native** news application built with **Expo** and **TypeScript**, featuring live news updates, stock market insights, interactive polls, customizable settings, and automatic location-based news detection.  
 Authentication is powered by **Firebase** with email verification.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Home News Tab** – Browse the latest news by category.
 - **Stocks Tab** – View daily highest and lowest performing stocks.
@@ -17,23 +17,23 @@ Authentication is powered by **Firebase** with email verification.
 
 ---
 
-## 📸 App Screenshots
+## App Screenshots
 
-### 🏠 Home News Tab
+### Home News Tab
 ![Home News Tab](screenshots/home-news.png)
 
-### 📈 Stocks Tab
+### Stocks Tab
 ![Stocks Tab](screenshots/stocks.png)
 
-### 🗳️ Poll Tab
+### Poll Tab
 ![Poll Tab](screenshots/poll.png)
 
-### ⚙️ Settings Tab
+### Settings Tab
 ![Settings Tab](screenshots/settings.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React Native + Expo + TypeScript
 - **Backend Services:** Firebase Authentication & Firestore
